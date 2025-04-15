@@ -63,5 +63,5 @@ Some other projects that can be found in the repo are some graphs and `data visu
 
 
 ## 🚀 About Me
-Check out more about my work in my [GitHub profile](https://github.com/BielAltimira/price) or visit my [LinkedIn profile](https://www.linkedin.com/in/biel-altimira-tarter/).
+Check out more about my work in my [GitHub profile](https://github.com/bielupc/) or visit my [LinkedIn profile](https://www.linkedin.com/in/biel-altimira-tarter/).
 
